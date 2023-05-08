@@ -79,11 +79,7 @@ body
 }
 #div4 {
 	max-width: 100%;
-	margin-top: 20px;
-	margin-left: 120px;
-	margin-right: 120px;
-	padding: 25px;
-	border: #e1f3ca;
+	padding: 20px;
 }
 #div5 {
 	max-width: 100%;
@@ -176,7 +172,9 @@ nav.redes {
 }
 #prev-button img, #next-button img  {	
 	width: 40px;
-    height: 40px;
+    	height: 40px;
+	max-width: 100%; 
+	height: auto;
 }
 #prev-button, #next-button {
 	width: 60px;
