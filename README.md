@@ -13,15 +13,15 @@ Da uma olhadinha em como ficou esse projeto: https://idelandia.github.io/lovelac
 <h3><br><strong>Escolha uma mulher importante na tecnologia</strong><br></h3>
     Biografia da mulher escolhida;<br>
     Principais contribuições para a tecnologia;<br>
-    Contexto histórico em que ela viveu e trabalhou, imagens e vídeos relacionados a sua  vida e trabalho, entre outros;<br>
+    Contexto histórico em que ela viveu e trabalhou, imagens e vídeos relacionados a sua  vida e trabalho, entre outros.<br>
 
 <h3><br><strong>Crie o design das páginas com HTML e CSS</strong><br></h3>
     Cores e fontes adequadas;<br>
-    Site seja responsivo e se adapte a diferentes tamanhos de tela;<br>
+    Site seja responsivo e se adapte a diferentes tamanhos de tela.<br>
 
 <h3><br><strong>Adicione interatividade com JavaScript</strong><br></h3>
     Galeria de imagens com carrossel;<br>
-    Quiz sobre a mulher escolhida;<br>
+    Quiz sobre a mulher escolhida.<br>
 
 <h3><br><strong>Publique seu site utilizando o GitHub Pages</strong><br></h3>
     Com o GitHub Pages, você poderá fazer uma hospedagem gratuita do seu site e poderá compartilhar o link com outras pessoas.<br>
